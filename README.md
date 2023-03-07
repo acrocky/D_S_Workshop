@@ -1,1 +1,2 @@
-# DS_Workshop
+# Data Science for Social Good Hackathon
+
